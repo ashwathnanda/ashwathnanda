@@ -19,6 +19,13 @@ Hi, I'm Ashwath!
 	</a>
 </p>
 
+<!--
+Quotes 
+--!>
+<p align="center">
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark">
+</p>
+
 <hr>
 
 <pre>
